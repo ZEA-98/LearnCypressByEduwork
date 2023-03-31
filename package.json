@@ -1,0 +1,13 @@
+{
+  "name": "educy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "arza98",
+  "license": "MIT",
+  "scripts": {
+    "cy:open" : "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "9.5.3"
+  }
+}
